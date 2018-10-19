@@ -1,0 +1,13 @@
+== Azure VM ==
+
+Create a VM with managed identities for Azure Resources
+
+Done --> Attach A Disk (Windows and Linux)
+Done --> Create Image (Windows and Linux)
+
+Done --> Install IIS (Windows) with default website
+Done --> Install Apache (Linux)
+
+== Load Balancer ==
+Use SSL for Load Balancer
+Use Application Gateway
